@@ -30,9 +30,15 @@
         "playwright",
         "appium",
         "e2e-testing",
+        "mobile-testing",
+        "requirements",
+        "traceability",
         "tdd",
         "planning",
-        "wireframe"
+        "design-system",
+        "wireframe",
+        "ui-sketch",
+        "ux"
       ]
     }
   ]
